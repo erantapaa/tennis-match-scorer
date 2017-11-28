@@ -18,6 +18,7 @@ Assumptions:
 Additional 
 
 In processing scores, the idea is as follows – for each tournament
+
 · 1st round – 16 losers can be ignored completely, while the 16 winners are all awarded 5
 ranking points
 
