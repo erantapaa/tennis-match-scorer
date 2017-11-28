@@ -20,16 +20,22 @@ Additional
 In processing scores, the idea is as follows – for each tournament
 · 1st round – 16 losers can be ignored completely, while the 16 winners are all awarded 5
 ranking points
+
 · 2nd round – 8 losers stay on 5 ranking points while the winners are updated to 10 ranking
 points
+
 · 3rd round – 4 losers stay on 10 ranking points while the winners are updated to 30 ranking
 points
+
 · 4th round – 2 losers stay on 30 points while the winners are updated on 50 points
+
 · Final – loser stays on 50 points while the winner is updated to 100 points
+
 · Following the final ranking points awarded are multiplied by the difficulty factor and the results
 added to any other ranking points these players might have from previous tournaments played.
 A similar logic should be applied for the award of money although there the awards are not affected
 by the degree of difficulty as each tournament has its own pay structure.
+
 Your system must allow you to save intermediate awards of ranking points and prize money at any
 stage for every tournament. At the end of each tournament the ranking points awarded, and the
 prize money won will be used to update each player’s totals. Thus, exiting the programme at any
